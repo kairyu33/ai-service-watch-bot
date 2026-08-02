@@ -11,8 +11,14 @@ If you found this URL in your access logs, this page explains what it is.*
 ## User-Agent
 
 ```
-Mozilla/5.0 (compatible; ai-service-watch/0.1; +https://github.com/kairyu33/ai-service-watch-bot)
+Mozilla/5.0 (compatible; ai-service-watch/0.1; +https://note.com/happy_recipes)
 ```
+
+User-Agent 内のURLは運営者の連絡先です。**クローラの技術的な仕様と停止方法は
+このページ（github.com/kairyu33/ai-service-watch-bot）にまとめてあります。**
+
+*The URL in the User-Agent is the operator's contact. This page documents the
+crawler's behavior and how to stop it.*
 
 ## 目的 / Purpose
 
@@ -87,4 +93,4 @@ It will be stopped promptly while the cause is investigated.*
 
 ---
 
-<sub>最終更新: 2026-08-02</sub>
+<sub>最終更新: 2026-08-02 ・ 運営者: https://note.com/happy_recipes</sub>
